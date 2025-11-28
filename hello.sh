@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "build executed successfully at $(date)"
+echo "New update at $(date)"
