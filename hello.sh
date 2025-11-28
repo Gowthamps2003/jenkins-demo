@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "New update at $(date)"
+echo "this modification is done to check the mail notification $(date)"
